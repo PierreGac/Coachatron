@@ -1,0 +1,74 @@
+{
+    "entries": [
+        {
+            "ID": "merde",
+            "choiceText": "Merde",
+            "sayText": "Merde !",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        },
+		{
+            "ID": "chaussette",
+            "choiceText": "Chaussette",
+            "sayText": "J'ai mis mes chaussettes à l'envers...",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        },
+		{
+            "ID": "apero",
+            "choiceText": "Apero",
+            "sayText": "Pas l'temps, c'est l'apéro !",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": -5.0,
+            "expMax": 5.0,
+            "time": 3.0
+        },
+		{
+            "ID": "useless",
+            "choiceText": "Useless",
+            "sayText": "De toute façon tu sers à rien...",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        },
+		{
+            "ID": "non",
+            "choiceText": "Non",
+            "sayText": "Mais non....",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        },
+		{
+            "ID": "courgette",
+            "choiceText": "Courgette",
+            "sayText": "COURGETTE !",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        },
+		{
+            "ID": "gne",
+            "choiceText": "Gné?",
+            "sayText": "Gné?",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": 5.0,
+            "expMax": -10.0,
+            "time": 3.0
+        }
+    ]
+}

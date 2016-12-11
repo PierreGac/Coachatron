@@ -1,0 +1,42 @@
+{
+            "left": {
+                "ID": "Identifiant du unique du choix",
+                "choiceText": "Le texte qui sera affiche en choix",
+                "sayText": "Le texte dit par le coach si on fait ce choix",
+                "pointsMin": 0.0,
+                "pointsMax": 10.0,
+                "expMin": 0.0,
+                "expMax": 10.0,
+                "time": 0.0
+            },
+            "up": {
+                "ID": "",
+                "choiceText": "",
+                "sayText": "",
+                "pointsMin": 0.0,
+                "pointsMax": 0.0,
+                "expMin": 0.0,
+                "expMax": 0.0,
+                "time": 0.0
+            },
+            "right": {
+                "ID": "",
+                "choiceText": "",
+                "sayText": "",
+                "pointsMin": 0.0,
+                "pointsMax": 0.0,
+                "expMin": 0.0,
+                "expMax": 0.0,
+                "time": 0.0
+            },
+            "down": {
+                "ID": "",
+                "choiceText": "",
+                "sayText": "",
+                "pointsMin": 0.0,
+                "pointsMax": 0.0,
+                "expMin": 0.0,
+                "expMax": 0.0,
+                "time": 0.0
+            }
+        },

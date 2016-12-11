@@ -1,0 +1,373 @@
+{
+    "entries": [
+        {
+            "ID": "",
+            "choiceText": "Ping",
+            "sayText": "Pong",
+            "pointsMin": 5.0,
+            "pointsMax": 20.0,
+            "expMin": 5.0,
+            "expMax": 20.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Compliment",
+            "sayText": "C'est bi..Ouais non oublie",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -7.0,
+            "expMax": 12.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Yeux",
+            "sayText": "Vises les yeux !!!!",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Leçon",
+            "sayText": "Alors là, t'es censé faire ce que je t'ai appris",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Audace",
+            "sayText": "Ah, pourquoi pas, c'est audacieu, j'aime ça",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Peur",
+            "sayText": "Ouhla, j'ai peur...",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Peur",
+            "sayText": "J'vois que t'as pas peur!",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Sardine",
+            "sayText": "Des sardines à l'huile bien juteuses",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 1.0,
+            "expMax": 9.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Reprends toi",
+            "sayText": "Reprends toi didou !! Aller hophop, du nerf !!",
+            "pointsMin": 20.0,
+            "pointsMax": 20.0,
+            "expMin": 35.0,
+            "expMax": 20.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Bière",
+            "sayText": "Une tite binouze?",
+            "pointsMin": 20.0,
+            "pointsMax": 35.0,
+            "expMin": 7.0,
+            "expMax": 16.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Coke?",
+            "sayText": "Un pti rail cousin?",
+            "pointsMin": -5.0,
+            "pointsMax": 5.0,
+            "expMin": -20.0,
+            "expMax": 5.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Culture",
+            "sayText": "Jérôme-Étienne-Marie de Richardot, né à Toulouse, baptisé en la paroisse Saint-Étienne le 29 juin 1751 et mort le 28 mars 1794 (mort emprisonné à la Conciergerie), est un général de brigade de la Révolution française.",
+            "pointsMin": 5.0,
+            "pointsMax": 20.0,
+            "expMin": 5.0,
+            "expMax": 35.0,
+            "time": 5.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Culture",
+            "sayText": "Le district de Chuanshan (船山区 ; pinyin : Chuánshān Qū) est une subdivision administrative de la province du Sichuan en Chine. Il est placé sous la juridiction de la ville-préfecture de Suining.",
+            "pointsMin": 5.0,
+            "pointsMax": 35.0,
+            "expMin": 5.0,
+            "expMax": 8.0,
+            "time": 5.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Wikipedia",
+            "sayText": "Tant que t'as pas d'article wikipédia à ton nom, tu ne t'arrêtes pas!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Poisson",
+            "sayText": "Vieille tanche",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Révélation",
+            "sayText": "Mais en fait t'as une tête de roquet ?!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Titre ici",
+            "sayText": "Bon je revien la buvette vient d'ouvrir",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Cochonet",
+            "sayText": "Alors, j'te rappelle les règles, il faut faire des bisous au cochonet. Non mais si tu ne sais pas tu m'demande",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 4.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Raison",
+            "sayText": "Règle1: J'ai raison, t'as tord. Règle2: Se référer à la règle 1 et te coller une beigne pour avoir demandé",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 4.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Cerise",
+            "sayText": "Cerise sur le châpeau, la brouette n'avait pas de roue!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Excellent",
+            "sayText": "Excellent ça",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "DLC",
+            "sayText": "Cette réplique est disponible dans le DLC \"Rélique\", chez ton marchand de journaux",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 4.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Gras",
+            "sayText": "Là, il y a un bourlet qui dépasse, vas y choppes le!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Fin de match",
+            "sayText": "Gardes de l'énergie pour la 3eme mi-temps!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Slip",
+            "sayText": "Ton slip est magnifique",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Le retour",
+            "sayText": "J'revien d'la buvette. C'était génial. Y a momo et bin il a gerbé sur le contoir, t'aurais dû voir ça... ohoh les gueules d'endives!",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 5.0
+        },{
+            "ID": "",
+            "choiceText": "Le slip!",
+            "sayText": "Tires lui le slip!",
+            "pointsMin": -5.0,
+            "pointsMax": 20.0,
+            "expMin": 20.0,
+            "expMax": 20.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Huile",
+            "sayText": "Tu perds de l'huile!",
+            "pointsMin": 5.0,
+            "pointsMax": 20.0,
+            "expMin": 20.0,
+            "expMax": 12.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Sympa",
+            "sayText": "Vieille tanche",
+            "pointsMin": -5.0,
+            "pointsMax": 35.0,
+            "expMin": -5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Super!",
+            "sayText": "Pignouf des îles",
+            "pointsMin": 5.0,
+            "pointsMax": 20.0,
+            "expMin": 14.0,
+            "expMax": 18.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Caresse",
+            "sayText": "Oh oui vas y caresses toi. Huumm, haaa ouuuh",
+            "pointsMin": 20.0,
+            "pointsMax": 30.0,
+            "expMin": 20.0,
+            "expMax": 30.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Brindille",
+            "sayText": "La brindille est moins forte que le meubre IKEA",
+            "pointsMin": -5.0,
+            "pointsMax": 20.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "*tousse*",
+            "sayText": "RIIICOOOLLAAAAAA !",
+            "pointsMin": 5.0,
+            "pointsMax": 20.0,
+            "expMin": 20.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Keikoku!",
+            "sayText": "*brrr* Je n'aurais pas du mangé mexicain de midi *brr*",
+            "pointsMin": -20.0,
+            "pointsMax": -5.0,
+            "expMin": -20.0,
+            "expMax": -5.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Opération râteau",
+            "sayText": "Démerdes toi, il y a opération 1 râteau acheté une brouette offerte chez Jardiland!",
+            "pointsMin": 5.0,
+            "pointsMax": 35.0,
+            "expMin": 5.0,
+            "expMax": 35.0,
+            "time": 4.0
+        },
+		{
+            "ID": "",
+            "choiceText": "Stratégie",
+            "sayText": "Utilise mes techniques secrètes !",
+            "pointsMin": 5.0,
+            "pointsMax": 35.0,
+            "expMin": 5.0,
+            "expMax": 35.0,
+            "time": 3.0
+        },
+        {
+            "ID": "",
+            "choiceText": "Oh",
+            "sayText": "Oh",
+            "pointsMin": 1.0,
+            "pointsMax": 2.0,
+            "expMin": 1.0,
+            "expMax": 2.0,
+            "time": 3.0
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "entries": [
+        {
+            "ID": "kebab",
+            "choiceText": "Kebab",
+            "sayText": "J'te paye un kebab!",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "roxor",
+            "choiceText": "Roxor",
+            "sayText": "T'es un roxor!",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "bisous",
+            "choiceText": "Bisous",
+            "sayText": "Viens là que je te fasse un gros bisous",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "oh",
+            "choiceText": "Oh",
+            "sayText": "Oh!",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "ah",
+            "choiceText": "Ah",
+            "sayText": "Ah!",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "pignouf",
+            "choiceText": "Pignouf",
+            "sayText": "Peux mieux faire, pignouf!",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        },
+		{
+            "ID": "tanche",
+            "choiceText": "TancheKebab",
+            "sayText": "T'es une tanche.",
+            "pointsMin": -5.0,
+            "pointsMax": -10.0,
+            "expMin": -10.0,
+            "expMax": -20.0,
+            "time": 3.0
+        }
+    ]
+}
